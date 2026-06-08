@@ -356,7 +356,7 @@
     display: block;
     border-radius: 50%;
     border: 1px solid rgba(31, 77, 120, 0.18);
-    filter: grayscale(100%) contrast(1.05);
+    filter: none;
     opacity: 0.92;
     box-shadow: 0 18px 50px rgba(31, 37, 42, 0.10);
   }
