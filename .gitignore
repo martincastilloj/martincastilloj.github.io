@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.log
+.cache/
+.edge-profile*/
+.chrome-profile*/
+.chrome-mobile-check*/
+mobile-*-check.png
+
+# Archivos de trabajo local: no son necesarios para publicar el sitio.
+content-data.md
+content-plan.md
+tools/
+plantillas/
+assets/docs/.gitkeep
