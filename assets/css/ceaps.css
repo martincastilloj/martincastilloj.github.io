@@ -48,6 +48,34 @@
   hyphens: auto;
 }
 
+.ceaps-side-facts {
+  display: grid;
+  gap: 12px;
+  margin-top: 22px;
+  padding-top: 18px;
+  border-top: 0.5px solid var(--rule-mid);
+}
+
+.ceaps-side-facts div {
+  display: grid;
+  gap: 2px;
+}
+
+.ceaps-side-facts dt {
+  font-family: var(--f-mono);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.ceaps-side-facts dd {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink-mid);
+}
+
 .ceaps-side-link {
   display: inline-flex;
   margin-top: 18px;
@@ -83,6 +111,48 @@
   font-size: 17px;
   line-height: 1.9;
   color: var(--ink-mid);
+  text-align: justify;
+  hyphens: auto;
+}
+
+.ceaps-status-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2px;
+  margin-top: 30px;
+}
+
+.ceaps-status-item {
+  min-height: 190px;
+  padding: 24px;
+  border: 0.5px solid var(--rule-mid);
+  background: rgba(237,232,220,0.34);
+}
+
+.ceaps-status-item span {
+  display: block;
+  margin-bottom: 14px;
+  font-family: var(--f-mono);
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.ceaps-status-item strong {
+  display: block;
+  margin-bottom: 10px;
+  font-family: var(--f-serif);
+  font-size: 23px;
+  font-weight: 300;
+  line-height: 1.12;
+  color: var(--ink);
+}
+
+.ceaps-status-item p {
+  font-size: 13.5px;
+  line-height: 1.78;
+  color: var(--ink-light);
   text-align: justify;
   hyphens: auto;
 }
@@ -200,6 +270,10 @@
   .ceaps-page-sidebar {
     position: static;
   }
+
+  .ceaps-status-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 @media (max-width: 520px) {
@@ -242,6 +316,20 @@
   .ceaps-line-grid {
     grid-template-columns: 1fr;
     margin-top: 26px;
+  }
+
+  .ceaps-status-item {
+    min-height: auto;
+    padding: 22px 20px;
+  }
+
+  .ceaps-status-item p {
+    width: min(100%, 34ch);
+    max-width: 34ch;
+    font-size: 14.5px;
+    line-height: 1.76;
+    text-align: left;
+    text-align-last: auto;
   }
 
   .ceaps-line-card {
