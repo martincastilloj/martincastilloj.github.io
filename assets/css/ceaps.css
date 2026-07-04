@@ -52,7 +52,7 @@
   display: inline-flex;
   margin-top: 18px;
   font-family: var(--f-mono);
-  font-size: 9px;
+  font-size: 10.5px;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--accent);
@@ -105,7 +105,7 @@
   display: block;
   margin-bottom: 18px;
   font-family: var(--f-mono);
-  font-size: 9px;
+  font-size: 10.5px;
   letter-spacing: 0.1em;
   color: var(--ink-faint);
 }
@@ -164,7 +164,7 @@
   gap: 8px 14px;
   margin-bottom: 14px;
   font-family: var(--f-mono);
-  font-size: 9px;
+  font-size: 10.5px;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--ink-faint);
@@ -174,7 +174,7 @@
   display: inline-flex;
   margin-top: 14px;
   font-family: var(--f-mono);
-  font-size: 9px;
+  font-size: 10.5px;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--accent);
@@ -235,6 +235,8 @@
     max-width: 34ch;
     font-size: 16px;
     line-height: 1.82;
+    text-align: left;
+    text-align-last: auto;
   }
 
   .ceaps-line-grid {
@@ -258,6 +260,13 @@
     max-width: 34ch;
     font-size: 15px;
     line-height: 1.78;
+    text-align: left;
+    text-align-last: auto;
+  }
+
+  .ceaps-page-sidebar p {
+    text-align: left;
+    text-align-last: auto;
   }
 
   .activity-entry,

@@ -6,8 +6,8 @@
     --cream-mid: #EDE8DC;
     --ink:       #1C1A16;
     --ink-mid:   #3A3630;
-    --ink-light: #7A7468;
-    --ink-faint: #B0A898;
+    --ink-light: #6E6858;
+    --ink-faint: #877E6E;
     --accent:    #1C3B5A;
     --rule:      rgba(28,26,22,0.12);
     --rule-mid:  rgba(28,26,22,0.07);
@@ -133,7 +133,7 @@
   }
 
   .nav-links a {
-    font-size: 11px;
+    font-size: 12px;
     font-weight: 400;
     letter-spacing: 0.1em;
     text-transform: uppercase;
@@ -279,7 +279,7 @@
     border: 0.5px solid var(--rule);
     background: rgba(244,240,232,0.34);
     font-family: var(--f-mono);
-    font-size: 8.5px;
+    font-size: 10.5px;
     letter-spacing: 0.08em;
     text-transform: uppercase;
     color: var(--ink-faint);
@@ -374,7 +374,7 @@
 
   .hero-photo-placeholder span {
     font-family: var(--f-mono);
-    font-size: 9px;
+    font-size: 10px;
     color: var(--ink-faint);
     letter-spacing: 0.1em;
     text-transform: uppercase;
@@ -382,7 +382,7 @@
 
   .hero-photo-caption {
     font-family: var(--f-mono);
-    font-size: 9px;
+    font-size: 10px;
     color: var(--ink-faint);
     letter-spacing: 0.08em;
     text-align: right;
@@ -398,7 +398,7 @@
 
   .hero-tag {
     font-family: var(--f-mono);
-    font-size: 9px;
+    font-size: 10.5px;
     font-weight: 300;
     color: var(--ink-faint);
     letter-spacing: 0.1em;
@@ -507,7 +507,7 @@
 
   .aside-label {
     font-family: var(--f-mono);
-    font-size: 9px;
+    font-size: 10.5px;
     letter-spacing: 0.14em;
     text-transform: uppercase;
     color: var(--ink-faint);
@@ -560,7 +560,7 @@
 
   .area-num {
     font-family: var(--f-mono);
-    font-size: 9px;
+    font-size: 10.5px;
     color: var(--ink-faint);
     letter-spacing: 0.1em;
     margin-bottom: 14px;
@@ -603,7 +603,7 @@
     display: block;
     margin-bottom: 18px;
     font-family: var(--f-mono);
-    font-size: 9px;
+    font-size: 10.5px;
     letter-spacing: 0.1em;
     color: var(--ink-faint);
   }
@@ -656,7 +656,7 @@
 
   .exp-tag {
     font-family: var(--f-mono);
-    font-size: 9px;
+    font-size: 10.5px;
     color: var(--ink-faint);
     letter-spacing: 0.1em;
     text-transform: uppercase;
@@ -739,7 +739,7 @@
     padding: 4px 9px;
     border: 0.5px solid var(--rule);
     font-family: var(--f-mono);
-    font-size: 8.5px;
+    font-size: 10.5px;
     letter-spacing: 0.08em;
     text-transform: uppercase;
     color: var(--ink-faint);
@@ -748,7 +748,7 @@
   .exp-note {
     margin-top: 14px;
     font-family: var(--f-mono);
-    font-size: 9px;
+    font-size: 10.5px;
     color: var(--ink-faint);
     letter-spacing: 0.08em;
     text-transform: uppercase;
@@ -758,7 +758,7 @@
     display: inline-flex;
     margin-top: 16px;
     font-family: var(--f-mono);
-    font-size: 9px;
+    font-size: 10.5px;
     letter-spacing: 0.12em;
     text-transform: uppercase;
     color: var(--accent);
@@ -809,7 +809,7 @@
 
   .col-featured-img-placeholder span {
     font-family: var(--f-mono);
-    font-size: 9px;
+    font-size: 10px;
     color: var(--ink-faint);
     letter-spacing: 0.1em;
     text-transform: uppercase;
@@ -824,7 +824,7 @@
 
   .col-cat {
     font-family: var(--f-mono);
-    font-size: 9px;
+    font-size: 10.5px;
     letter-spacing: 0.14em;
     text-transform: uppercase;
     color: var(--ink-faint);
@@ -857,7 +857,7 @@
 
   .col-date {
     font-family: var(--f-mono);
-    font-size: 9px;
+    font-size: 10.5px;
     color: var(--ink-faint);
     letter-spacing: 0.08em;
   }
@@ -1069,7 +1069,7 @@
     display: block;
     margin-bottom: 14px;
     font-family: var(--f-mono);
-    font-size: 9px;
+    font-size: 10.5px;
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: var(--ink-faint);
@@ -1350,7 +1350,7 @@
   .nav-overlay-note {
     margin-top: 36px;
     font-family: var(--f-mono);
-    font-size: 9px;
+    font-size: 10.5px;
     letter-spacing: 0.12em;
     text-transform: uppercase;
     color: var(--ink-faint);
@@ -1479,7 +1479,7 @@
     }
     .hero-content { padding: 0 16px 48px; }
     .hero-eyebrow {
-      font-size: 8.5px;
+      font-size: 10px;
       line-height: 1.5;
       margin-bottom: 16px;
     }
@@ -1498,7 +1498,7 @@
     }
     .hero-snapshot span {
       min-height: 24px;
-      font-size: 8px;
+      font-size: 10px;
     }
     .hero-ctas {
       display: grid;
@@ -1574,7 +1574,7 @@
     }
     .exp-impact span {
       min-height: 25px;
-      font-size: 8px;
+      font-size: 10px;
     }
 
     .ceaps-stats-row { grid-template-columns: 1fr; }
@@ -1621,6 +1621,23 @@
       gap: 10px 16px;
     }
 
+    .section-lead,
+    .sobre-text p,
+    .area-desc,
+    .exp-overview-item p,
+    .exp-desc,
+    .exp-highlights li,
+    .col-excerpt,
+    .col-source,
+    .ceaps-left p,
+    .ceaps-stat-label,
+    .contact-inner p,
+    .contact-focus-item p,
+    .not-found-inner p {
+      text-align: left;
+      text-align-last: auto;
+    }
+
     .nav-overlay { padding: 70px 20px 40px; }
     .nav-overlay-links a { font-size: 30px; padding: 15px 0; }
   }
@@ -1638,7 +1655,7 @@
       height: 104px;
     }
     .hero-photo-caption {
-      font-size: 8px;
+      font-size: 10px;
     }
 
     .section-inner { padding: 48px 16px; }

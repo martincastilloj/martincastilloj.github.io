@@ -4,8 +4,8 @@
     --cream-mid: #EDE8DC;
     --ink: #1C1A16;
     --ink-mid: #3A3630;
-    --ink-light: #7A7468;
-    --ink-faint: #B0A898;
+    --ink-light: #6E6858;
+    --ink-faint: #877E6E;
     --accent: #1C3B5A;
     --rule: rgba(28,26,22,0.12);
     --rule-mid: rgba(28,26,22,0.07);
@@ -282,7 +282,7 @@
     }
 
     .nav-link {
-      font-size: 9px;
+      font-size: 10px;
       max-width: 92px;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -315,7 +315,7 @@
 
     .article-meta {
       gap: 8px 12px;
-      font-size: 9px;
+      font-size: 10px;
     }
 
     .article-meta span:last-child {
@@ -339,6 +339,8 @@
       width: min(100%, 34ch);
       max-width: 34ch;
       font-size: 12.5px;
+      text-align: left;
+      text-align-last: auto;
       overflow-wrap: anywhere;
     }
 
@@ -348,6 +350,8 @@
       font-size: 16px;
       line-height: 1.86;
       margin-bottom: 20px;
+      text-align: left;
+      text-align-last: auto;
       overflow-wrap: anywhere;
     }
 
@@ -375,7 +379,14 @@
       margin-left: 20px;
       font-size: 16px;
       line-height: 1.82;
+      text-align: left;
+      text-align-last: auto;
       overflow-wrap: anywhere;
+    }
+
+    .source-box p {
+      text-align: left;
+      text-align-last: auto;
     }
 
     blockquote {
