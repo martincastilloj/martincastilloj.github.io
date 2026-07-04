@@ -31,7 +31,7 @@ https://martincastilloj.github.io/
 ## Contenido actual
 
 - Perfil profesional y areas de trabajo.
-- Experiencia en investigacion aplicada, docencia universitaria y CEAPS.
+- Experiencia en investigacion aplicada, ayudantias universitarias y CEAPS.
 - Pagina propia para la columna "Esta muriendo la Universidad?".
 - Archivo general de escritos y publicaciones.
 - Archivo personal de participacion en CEAPS, separado del sitio oficial del

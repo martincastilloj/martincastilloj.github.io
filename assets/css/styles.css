@@ -1329,11 +1329,13 @@
     transition: opacity 0.3s ease, transform 0.3s ease;
   }
   .nav-overlay-links li:first-child { border-top: 0.5px solid var(--rule-mid); }
-  .nav-overlay.open .nav-overlay-links li:nth-child(1) { opacity:1; transform:none; transition-delay:0.06s; }
-  .nav-overlay.open .nav-overlay-links li:nth-child(2) { opacity:1; transform:none; transition-delay:0.10s; }
-  .nav-overlay.open .nav-overlay-links li:nth-child(3) { opacity:1; transform:none; transition-delay:0.14s; }
-  .nav-overlay.open .nav-overlay-links li:nth-child(4) { opacity:1; transform:none; transition-delay:0.18s; }
-  .nav-overlay.open .nav-overlay-links li:nth-child(5) { opacity:1; transform:none; transition-delay:0.22s; }
+  .nav-overlay.open .nav-overlay-links li { opacity: 1; transform: none; }
+  .nav-overlay.open .nav-overlay-links li:nth-child(1) { transition-delay:0.06s; }
+  .nav-overlay.open .nav-overlay-links li:nth-child(2) { transition-delay:0.10s; }
+  .nav-overlay.open .nav-overlay-links li:nth-child(3) { transition-delay:0.14s; }
+  .nav-overlay.open .nav-overlay-links li:nth-child(4) { transition-delay:0.18s; }
+  .nav-overlay.open .nav-overlay-links li:nth-child(5) { transition-delay:0.22s; }
+  .nav-overlay.open .nav-overlay-links li:nth-child(6) { transition-delay:0.26s; }
   .nav-overlay-links a {
     display: block;
     font-family: var(--f-serif);
