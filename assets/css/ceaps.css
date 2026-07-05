@@ -201,10 +201,14 @@
 
 .activity-entry {
   display: grid;
-  grid-template-columns: minmax(180px, 260px) minmax(0, 1fr);
+  grid-template-columns: minmax(260px, 360px) minmax(0, 1fr);
   gap: 28px;
   padding: 28px 0;
   border-top: 0.5px solid var(--rule);
+}
+
+.activity-entry-featured {
+  grid-template-columns: 1fr;
 }
 
 .activity-entry.is-note {
@@ -215,7 +219,8 @@
 }
 
 .activity-entry-media {
-  min-height: 180px;
+  align-self: start;
+  aspect-ratio: 2 / 1;
   overflow: hidden;
   background: var(--cream-mid);
   border: 0.5px solid var(--rule-mid);
@@ -226,6 +231,7 @@
   height: 100%;
   display: block;
   object-fit: cover;
+  object-position: center center;
 }
 
 .activity-entry-meta {
