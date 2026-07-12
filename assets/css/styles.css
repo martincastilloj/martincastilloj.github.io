@@ -251,11 +251,11 @@
   }
 
   .hero-desc {
-    font-size: 15px;
+    font-size: 16.5px;
     font-weight: 300;
     color: var(--ink-mid);
-    line-height: 1.75;
-    max-width: 420px;
+    line-height: 1.68;
+    max-width: 460px;
     margin-bottom: 22px;
     opacity: 0;
     animation: fadeUp 0.8s 0.6s forwards;
@@ -427,11 +427,11 @@
   }
 
   .section-lead {
-    max-width: 620px;
+    max-width: 660px;
     margin: -24px 0 52px;
-    font-size: 15.5px;
+    font-size: 16.5px;
     font-weight: 300;
-    line-height: 1.85;
+    line-height: 1.75;
     color: var(--ink-mid);
   }
 
@@ -480,10 +480,10 @@
   .sobre-text h2 em { font-style: italic; color: var(--ink-mid); }
 
   .sobre-text p {
-    font-size: 15.5px;
+    font-size: 16.5px;
     font-weight: 300;
     color: var(--ink-mid);
-    line-height: 1.9;
+    line-height: 1.78;
     margin-bottom: 18px;
   }
 
@@ -522,7 +522,7 @@
   }
 
   .aside-list li {
-    font-size: 13.5px;
+    font-size: 14.5px;
     font-weight: 300;
     color: var(--ink-mid);
     display: flex;
@@ -576,10 +576,10 @@
   }
 
   .area-desc {
-    font-size: 13.5px;
+    font-size: 14.8px;
     font-weight: 300;
     color: var(--ink-light);
-    line-height: 1.75;
+    line-height: 1.65;
   }
 
   /* ─── EXPERIENCIA ──────────────────────────────────────── */
@@ -619,10 +619,10 @@
   }
 
   .exp-overview-item p {
-    font-size: 13.5px;
-    line-height: 1.72;
+    font-size: 14.8px;
+    line-height: 1.65;
     color: var(--ink-light);
-    text-align: justify;
+    text-align: left;
     hyphens: auto;
   }
 
@@ -686,10 +686,10 @@
   }
 
   .exp-desc {
-    font-size: 14.5px;
+    font-size: 15.8px;
     font-weight: 300;
     color: var(--ink-mid);
-    line-height: 1.85;
+    line-height: 1.74;
     max-width: 640px;
   }
 
@@ -704,10 +704,10 @@
   .exp-highlights li {
     position: relative;
     padding-left: 18px;
-    font-size: 13.5px;
+    font-size: 14.8px;
     font-weight: 300;
     color: var(--ink-light);
-    line-height: 1.75;
+    line-height: 1.68;
   }
 
   .exp-highlights li::before {
@@ -841,10 +841,10 @@
   }
 
   .col-excerpt {
-    font-size: 14.5px;
+    font-size: 15.5px;
     font-weight: 300;
     color: var(--ink-mid);
-    line-height: 1.85;
+    line-height: 1.72;
     margin-bottom: 24px;
     flex: 1;
   }
@@ -920,7 +920,7 @@
 
   .col-source {
     margin-top: 18px;
-    font-size: 12.5px;
+    font-size: 13.5px;
     color: var(--ink-light);
     line-height: 1.7;
   }
@@ -952,10 +952,10 @@
   .ceaps-left h2 em { font-style: italic; color: rgba(244,240,232,0.6); }
 
   .ceaps-left p {
-    font-size: 15.5px;
+    font-size: 16.2px;
     font-weight: 300;
     color: rgba(244,240,232,0.65);
-    line-height: 1.9;
+    line-height: 1.75;
     margin-bottom: 32px;
   }
 
@@ -1012,7 +1012,7 @@
   }
 
   .ceaps-stat-label {
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 300;
     color: rgba(244,240,232,0.45);
     letter-spacing: 0.04em;
@@ -1044,10 +1044,10 @@
   .contact-inner h2 em { font-style: italic; color: var(--ink-mid); }
 
   .contact-inner p {
-    font-size: 15.5px;
+    font-size: 16.2px;
     font-weight: 300;
     color: var(--ink-mid);
-    line-height: 1.9;
+    line-height: 1.75;
     margin-bottom: 32px;
   }
 
@@ -1077,10 +1077,10 @@
 
   .contact-focus-item p {
     margin: 0;
-    font-size: 13px;
-    line-height: 1.72;
+    font-size: 14.3px;
+    line-height: 1.62;
     color: var(--ink-light);
-    text-align: justify;
+    text-align: left;
     hyphens: auto;
   }
 
@@ -1240,7 +1240,7 @@
   .ceaps-stat-label,
   .contact-inner p,
   .not-found-inner p {
-    text-align: justify;
+    text-align: left;
     text-align-last: left;
     hyphens: auto;
     overflow-wrap: break-word;
@@ -1488,8 +1488,8 @@
     .hero-desc {
       max-width: 36ch;
       margin-bottom: 18px;
-      font-size: 15px;
-      line-height: 1.78;
+      font-size: 15.8px;
+      line-height: 1.72;
       text-align: left;
     }
     .hero-snapshot {
@@ -1528,19 +1528,19 @@
     .section-header { margin-bottom: 40px; }
     .section-lead {
       margin: -20px 0 34px;
-      font-size: 15px;
-      line-height: 1.8;
+      font-size: 15.8px;
+      line-height: 1.72;
     }
 
     .sobre-text h2 { font-size: clamp(26px, 8vw, 36px); }
     .sobre-text p,
     .ceaps-left p,
     .contact-inner p {
-      font-size: 15px;
-      line-height: 1.82;
+      font-size: 15.8px;
+      line-height: 1.72;
     }
 
-    .aside-list li { font-size: 13px; }
+    .aside-list li { font-size: 13.8px; }
     .sobre-grid { gap: 36px; }
 
     .areas-grid { grid-template-columns: 1fr; }
@@ -1550,14 +1550,14 @@
     .exp-overview-item p,
     .exp-highlights li,
     .col-card .col-excerpt {
-      font-size: 14px;
-      line-height: 1.72;
+      font-size: 14.8px;
+      line-height: 1.65;
     }
 
     .exp-desc,
     .col-excerpt {
-      font-size: 15px;
-      line-height: 1.82;
+      font-size: 15.8px;
+      line-height: 1.72;
     }
     .exp-item { padding: 30px 0; }
     .exp-title { margin-bottom: 7px; }
@@ -1600,7 +1600,7 @@
       gap: 8px;
     }
     .col-card { padding: 24px 20px; }
-    .col-source { font-size: 12.5px; }
+    .col-source { font-size: 13.2px; }
 
     .contact-inner h2 { font-size: clamp(28px, 9vw, 44px); }
     .contact-link-label { font-size: 16.5px; }
@@ -1648,7 +1648,7 @@
     .hero-eyebrow { display: none; }
     .hero-desc {
       max-width: 34ch;
-      font-size: 14.8px;
+      font-size: 15.5px;
     }
     .hero-photo {
       width: 104px;
@@ -1664,9 +1664,9 @@
     .area-name { font-size: 18px; }
 
     .exp-title { font-size: 19px; }
-    .exp-desc { font-size: 14.8px; }
+    .exp-desc { font-size: 15.5px; }
 
-    .aside-list li { font-size: 12.8px; }
+    .aside-list li { font-size: 13.5px; }
 
     .ceaps-stat-num { font-size: 34px; }
     .contact-link-label { font-size: 15.5px; }
