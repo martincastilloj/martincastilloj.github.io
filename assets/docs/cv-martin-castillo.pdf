@@ -9,7 +9,7 @@ endobj
 <<
 /Type /Pages
 /Count 2
-/Kids [ 4 0 R 42 0 R ]
+/Kids [ 4 0 R 45 0 R ]
 >>
 endobj
 3 0 obj
@@ -38,8 +38,8 @@ endobj
 /ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
 >>
 /Type /Page
+/Annots [ 42 0 R 43 0 R 44 0 R ]
 /Parent 2 0 R
-/Annots [ 45 0 R 46 0 R 47 0 R ]
 >>
 endobj
 5 0 obj
@@ -924,38 +924,6 @@ endobj
 endobj
 42 0 obj
 <<
-/Contents 43 0 R
-/MediaBox [ 0 0 595.276 841.89 ]
-/Resources 44 0 R
-/Type /Page
-/Parent 2 0 R
->>
-endobj
-43 0 obj
-<<
-/Filter /FlateDecode
-/Length 1175
->>
-stream
-xœ¥VKsÛ6¾ëWàHÍX($@NÇQ;Î4±Z+éX9 $ì`†$T’’-ÿú.Ğ"U)=ô"‹Å>¾]ì'‚A¿ÎHXß¯g?ı’J”áL0Ö(É°”É”àŒp´.ĞCt;ÿºşØëIœIBŞÃB°èó|!8»ß›¹“Üö¿×ó„Dë‘àÏ9• uz÷oÆN<&p~ÖMo:æáú‡ŞŞ†SÚo?œ8µ¸Wcàe3ıuÁVgÁÁ—ŞîûŞÊo'Ö‡ Æ¹ŞõÄò˜ál¹ı=£€2AÔ¡š°Ic.ójöğ• Î>"‚y–¢ç^³B±˜1ø,Ñıì÷ób$C2I° ©/ĞÍòz³ŒFÆ¤ÿº)wßüW¡ıºÌmm«Ouå%×y·S¥)Tá÷«9g‘-Jgrå…¿ÜÛÜh§é‹Q
-1‰ØGYÊeôI,(Ë4b„	ÿ…¯U£[]wÚ „Œ²h†”cf>)§nŠşBıà—Ü>îjÃ6=ÌC'÷íqœ¥	ØKq"©·×2¾N3¸ä+$9¦	4ãX$ kå`µ¶)L­r³á‚×à?`Âj›'U›×éá®6{İ´¦SQƒ~Ha§Ê°ÖèÂÒ´¦šÕÓd{¬G/aQ;T¢??‹ÇRB’ˆóŠe‚$%˜‰Ìçå2²u
- à5 t3œà)P‹X€3†òˆKpÂóî¿û.`¼Nòïª)U{åw*KUÛ½qÀµC8mgºG·“Øî¾•€†;NtÛí
-£êÎ€2>óê:‰Ñ‚œB*şÙØrWÕ½ÇÑ+±[S¿Åûà­ôtC°ÆúÏg^ÚŠß#{îÀËÄ¿Œtnˆ“JÌ¡n—;7C…f‰Db_`¸À7LÊeÛ¹6seQµkŒ®ëw¥òë—Ğ±Ğ7?ÃµØ5ñ*­ıÖhÿ©‹]>®,î g‘R]yY§óÚ–ö©ïb/:øeoŠ ˜¼ìeŒ{ï…>×Â"1KB†ÕÛ¤ZËáz¶ğ0SØ‹q‡æ½¹Ähw#VYfº'³åhÖOùîÇÌ¶¾Älo<æ­ùtÊ7Í–Ùì"CYçvıL% 5šñÿÅT6µšd1¦,ö%¼·İ³rÅ! ƒ[Næ¢“Úª³o;>@D÷êÜxäqıÑ¯"Zºï¶ö²ƒ_–/¹.ßùãÒT[£_‡[à±Ó•ê£+˜±äëh¢ã÷ì0ü’<ñ	ºÍ³íÌş¤u'¹É	+:›Z0 †Wp[ïağ™§Ñ“ÌÏ×IÔ Eäáà<pKÎ˜pd²õ#/Î	[±étJccNsÚ¶©üœ‡í†DLÁ„Jh^ƒ»ó&ÄPŸo˜ÿ~Àü·‚0…Êä0„	 `–†¿J·…±•ºĞIÎà²İ*ÈÚ@µr{7°Ò“#c:8ß«úU¡œ:]©Šu5âÕ
-şœhé—­ûƒ3"IÛ”|HúÅ™šÒñ°Â»ı•;úë
-endstream
-endobj
-44 0 obj
-<<
-/Font <<
-/F100 8 0 R
-/F84 32 0 R
-/F87 37 0 R
->>
-/ProcSet [ /PDF /Text ]
->>
-endobj
-45 0 obj
-<<
 /Type /Annot
 /Subtype /Link
 /P 4 0 R
@@ -968,7 +936,7 @@ endobj
 >>
 >>
 endobj
-46 0 obj
+43 0 obj
 <<
 /Type /Annot
 /Subtype /Link
@@ -982,7 +950,7 @@ endobj
 >>
 >>
 endobj
-47 0 obj
+44 0 obj
 <<
 /Type /Annot
 /Subtype /Link
@@ -996,8 +964,78 @@ endobj
 >>
 >>
 endobj
+45 0 obj
+<<
+/Contents 48 0 R
+/MediaBox [ 0 0 595.276 841.89 ]
+/Resources 47 0 R
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+46 0 obj
+<<
+/Filter /FlateDecode
+/Length 1175
+>>
+stream
+xœ¥VKsÛ6¾ëWàHÍX($@NÇQ;Î4±Z+éX9 $ì`†$T’’-ÿú.Ğ"U)=ô"‹Å>¾]ì'‚A¿ÎHXß¯g?ı’J”áL0Ö(É°”É”àŒp´.ĞCt;ÿºşØëIœIBŞÃB°èó|!8»ß›¹“Üö¿×ó„Dë‘àÏ9• uz÷oÆN<&p~ÖMo:æáú‡ŞŞ†SÚo?œ8µ¸Wcàe3ıuÁVgÁÁ—ŞîûŞÊo'Ö‡ Æ¹ŞõÄò˜ál¹ı=£€2AÔ¡š°Ic.ójöğ• Î>"‚y–¢ç^³B±˜1ø,Ñıì÷ób$C2I° ©/ĞÍòz³ŒFÆ¤ÿº)wßüW¡ıºÌmm«Ouå%×y·S¥)Tá÷«9g‘-Jgrå…¿ÜÛÜh§é‹Q
+1‰ØGYÊeôI,(Ë4b„	ÿ…¯U£[]wÚ „Œ²h†”cf>)§nŠşBıà—Ü>îjÃ6=ÌC'÷íqœ¥	ØKq"©·×2¾N3¸ä+$9¦	4ãX$ kå`µ¶)L­r³á‚×à?`Âj›'U›×éá®6{İ´¦SQƒ~Ha§Ê°ÖèÂÒ´¦šÕÓd{¬G/aQ;T¢??‹ÇRB’ˆóŠe‚$%˜‰Ìçå2²u
+ à5 t3œà)P‹X€3†òˆKpÂóî¿û.`¼Nòïª)U{åw*KUÛ½qÀµC8mgºG·“Øî¾•€†;NtÛí
+£êÎ€2>óê:‰Ñ‚œB*şÙØrWÕ½ÇÑ+±[S¿Åûà­ôtC°ÆúÏg^ÚŠß#{îÀËÄ¿Œtnˆ“JÌ¡n—;7C…f‰Db_`¸À7LÊeÛ¹6seQµkŒ®ëw¥òë—Ğ±Ğ7?ÃµØ5ñ*­ıÖhÿ©‹]>®,î g‘R]yY§óÚ–ö©ïb/:øeoŠ ˜¼ìeŒ{ï…>×Â"1KB†ÕÛ¤ZËáz¶ğ0SØ‹q‡æ½¹Ähw#VYfº'³åhÖOùîÇÌ¶¾Älo<æ­ùtÊ7Í–Ùì"CYçvıL% 5šñÿÅT6µšd1¦,ö%¼·İ³rÅ! ƒ[Næ¢“Úª³o;>@D÷êÜxäqıÑ¯"Zºï¶ö²ƒ_–/¹.ßùãÒT[£_‡[à±Ó•ê£+˜±äëh¢ã÷ì0ü’<ñ	ºÍ³íÌş¤u'¹É	+:›Z0 †Wp[ïağ™§Ñ“ÌÏ×IÔ Eäáà<pKÎ˜pd²õ#/Î	[±étJccNsÚ¶©üœ‡í†DLÁ„Jh^ƒ»ó&ÄPŸo˜ÿ~Àü·‚0…Êä0„	 `–†¿J·…±•ºĞIÎà²İ*ÈÚ@µr{7°Ò“#c:8ß«úU¡œ:]©Šu5âÕ
+şœhé—­ûƒ3"IÛ”|HúÅ™šÒñ°Â»ı•;úë
+endstream
+endobj
+47 0 obj
+<<
+/Font <<
+/F100 8 0 R
+/F84 32 0 R
+/F87 37 0 R
+>>
+/ProcSet [ /PDF /Text ]
+>>
+endobj
+48 0 obj
+<<
+/Length 2526
+>>
+stream
+0 g 0 G
+0 g 0 G
+BT
+/F87 9.9626 Tf 59.777 780.903 Td [(I)]TJ/F87 7.9701 Tf [-62(N)-63(I)-63(C)-62(I)-62(A)50(T)-62(I)-62(V)17(A)-63(S)]TJ/F87 9.9626 Tf [-340(A)]TJ/F87 7.9701 Tf [-63(C)-43(A)-63(D)-62(\311)-63(M)-62(I)-62(C)-44(A)-62(S)-426(Y)]TJ/F87 9.9626 Tf [-341(P)]TJ/F87 7.9701 Tf [-41(U)-63(B)-62(L)-62(I)-62(C)-43(A)-63(C)-62(I)-62(O)-63(N)-63(E)-63(S)]TJ
+ET
+q
+1 0 0 1 59.528 774.687 cm
+[]0 d 0 J 0.398 w 0 0 m 476.22 0 l S
+Q
+BT
+/F87 9.9626 Tf 59.209 755.618 Td [(CEAPS)-291(\227)-291(Club)-291(de)-291(Econom\355a,)-291(Actualidad)-291(P)32(ol\355tica)-291(y)-291(Sociedad)]TJ/F84 8.9664 Tf [-12837(Mayo)-278(2026)-278(\226)-278(Presente)]TJ/F100 9.9626 Tf 0.319 -13.389 Td [(Presidente)-278(y)-278(cofundador)]TJ
+0 g 0 G
+/F84 9.9626 Tf 3.985 -18.571 Td [(\226)]TJ
+0 g 0 G
+ 0.984 0 0 1 73.157 723.658 Tm [(Coordinaci\363n)-281(de)-281(organizaci\363n)-281(universitaria)-281(dedicada)-281(al)-281(an\341lisis)-281(de)-281(econom\355a,)-281(pol\355tica,)-282(sociedad)-281(y)-281(actualidad)]TJ 1 0 0 1 73.475 710.269 Tm [(nacional)-278(e)-278(internacional.)]TJ
+0 g 0 G
+ -9.962 -14.386 Td [(\226)]TJ
+0 g 0 G
+ [-463(Organizaci\363n)-278(de)-278(charlas,)-278(talleres,)-278(visitas)-278(institucionales)-278(y)-278(publicaciones)-278(estudiantiles.)]TJ
+/F87 9.9626 Tf 1 0 0 1 59.777 675.41 Tm [(C)]TJ/F87 7.9701 Tf [-62(O)-63(M)-62(P)-63(E)-63(T)-62(E)-63(N)-63(C)-62(I)-62(A)-63(S)]TJ/F87 9.9626 Tf [-340(T)]TJ/F87 7.9701 Tf [-63(\311)-63(C)-62(N)-63(I)-62(C)-43(A)-63(S)-426(E)]TJ/F87 9.9626 Tf [-341(I)]TJ/F87 7.9701 Tf [-62(D)-63(I)-62(O)-63(M)-62(A)-63(S)]TJ
+ET
+q
+1 0 0 1 59.528 669.193 cm
+[]0 d 0 J 0.398 w 0 0 m 476.22 0 l S
+Q
+BT
+/F87 9.9626 Tf 1.02 0 0 1 59.528 650.124 Tm [(Software)-362(y)-361(an\341lisis)-362(de)-361(datos.)]TJ/F84 9.9626 Tf [-346(Stata,)-345(R,)-346(Python)-345(y)-345(Excel;)-346(limpieza,)-345(sistematizaci\363n,)-346(visualizaci\363n)-345(y)-345(an\341lisis)]TJ 1 0 0 1 59.528 636.735 Tm [(descriptivo)-278(de)-278(datos.)]TJ/F87 9.9626 Tf 0.985 0 0 1 59.528 620.356 Tm [(Investigaci\363n)-295(y)-295(redacci\363n.)]TJ/F84 9.9626 Tf [-282(Investigaci\363n)-281(aplicada,)-282(an\341lisis)-282(institucional,)-282(redacci\363n)-281(de)-282(informes,)-282(\002chas)-282(t\351cnicas)]TJ 1 0 0 1 59.528 606.966 Tm [(y)-278(textos)-278(acad\351micos.)]TJ/F87 9.9626 Tf 0 -16.378 Td [(Idiomas.)]TJ/F84 9.9626 Tf [-278(Espa\361ol)-278(nativo;)-278(ingl\351s)-278(avanzado)-278(en)-278(lectura,)-278(intermedio)-278(en)-278(expresi\363n)-278(oral)-278(y)-278(escritura.)]TJ
+0 g 0 G
+0 g 0 G
+ET
+
+endstream
+endobj
 xref
-0 48
+0 49
 0000000000 65535 f 
 0000000015 00000 n 
 0000000054 00000 n 
@@ -1041,17 +1079,18 @@ xref
 0000110277 00000 n 
 0000111049 00000 n 
 0000111850 00000 n 
-0000111966 00000 n 
-0000113215 00000 n 
-0000113309 00000 n 
-0000113504 00000 n 
-0000113717 00000 n 
+0000112045 00000 n 
+0000112258 00000 n 
+0000112456 00000 n 
+0000112572 00000 n 
+0000113821 00000 n 
+0000113915 00000 n 
 trailer
 <<
-/Size 48
+/Size 49
 /Root 3 0 R
 /Info 1 0 R
 >>
 startxref
-113915
+116494
 %%EOF
